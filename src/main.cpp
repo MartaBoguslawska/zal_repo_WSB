@@ -8,9 +8,9 @@ int main(int argc, char** argv) {
 
     cout << "Wprowadź dwie liczby całkowite, które chesz dodać: " << endl;
     cin >> n >> m;
- 
+    cout << endl;
     cout << "Suma Twoich liczb to: " << suma(n,m) << endl;
-    
+    cout << endl;
     return 0;
 
 }
