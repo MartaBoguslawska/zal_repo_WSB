@@ -4,6 +4,8 @@ using namespace std;
 
 int main(int argc, char** argv) {
     
+    cout << "***PROGRAM DODAJĄCY DWIE LICZBY CAŁKOWITE***" << endl;
+
     int n, m;
 
     cout << "Wprowadź dwie liczby całkowite, które chesz dodać: " << endl;
